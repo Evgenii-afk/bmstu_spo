@@ -11,12 +11,14 @@
             "id": "1efaffa8531a1797",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "labs/disk/im17.png"
+                "file": "labs/disk/Лабораторная работа №4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "im17"
+              "icon": "lucide-file",
+              "title": "Лабораторная работа №4"
             }
           }
         ]
@@ -168,6 +170,7 @@
   },
   "active": "1efaffa8531a1797",
   "lastOpenFiles": [
+    "labs/disk/im17.png",
     "labs/disk/im14.png",
     "labs/disk/im8.png",
     "labs/disk/im3.png",
@@ -179,7 +182,6 @@
     "labs/Снимок экрана 2025-10-18 010425.png",
     "labs/Снимок экрана 2025-10-18 010105.png",
     "labs/Снимок экрана 2025-10-18 005709.png",
-    "labs/Снимок экрана 2025-10-18 005356.png",
     "labs/Лабораторная работа №4.md",
     "labs",
     "labs/test.md",
