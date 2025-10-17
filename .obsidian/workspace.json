@@ -11,10 +11,12 @@
             "id": "1efaffa8531a1797",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "image",
+              "state": {
+                "file": "labs/disk/im17.png"
+              },
+              "icon": "lucide-image",
+              "title": "im17"
             }
           }
         ]
@@ -166,17 +168,18 @@
   },
   "active": "1efaffa8531a1797",
   "lastOpenFiles": [
+    "labs/disk/im14.png",
+    "labs/disk/im8.png",
+    "labs/disk/im3.png",
+    "labs/disk/im2.png",
+    "labs/disk/Лабораторная работа №4.md",
+    "labs/disk/im1.png",
+    "labs/disk/im4.png",
     "labs/Снимок экрана 2025-10-18 010629.png",
     "labs/Снимок экрана 2025-10-18 010425.png",
     "labs/Снимок экрана 2025-10-18 010105.png",
     "labs/Снимок экрана 2025-10-18 005709.png",
     "labs/Снимок экрана 2025-10-18 005356.png",
-    "labs/Снимок экрана 2025-10-18 005101.png",
-    "labs/Снимок экрана 2025-10-18 002516.png",
-    "labs/Снимок экрана 2025-10-18 002711.png",
-    "labs/Снимок экрана 2025-10-18 000723.png",
-    "labs/Снимок экрана 2025-10-17 235327.png",
-    "labs/Снимок экрана 2025-10-17 235052.png",
     "labs/Лабораторная работа №4.md",
     "labs",
     "labs/test.md",
